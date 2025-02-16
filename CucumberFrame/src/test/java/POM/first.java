@@ -25,6 +25,7 @@ public class first {
 	{
 		System.out.println("two");
 		
+		System.out.println("three");
 	}
 	
 }
