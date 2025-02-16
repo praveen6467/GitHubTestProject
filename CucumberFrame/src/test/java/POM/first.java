@@ -18,6 +18,8 @@ public class first {
 	void testing()
 	{
 		System.out.println("one");
+		System.out.println("sucefully login to git and gitHub ");
+		System.out.println("sucefully login to git and gitHub ");
 	}  
 	
 	@Test
