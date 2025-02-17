@@ -17,7 +17,7 @@ public class BASE {  // This ParentClass
     public	POM_PRACTICALITY pagelog;
     
     
-	public ReadConfigureFileClass   ConfigFileReadingClass;  // Object Creation For CLASS Which read 'ConfigureFile'
+	public ReadConfigureFileClass  ConfigFileReadingClass;  // Object Creation For CLASS Which read 'ConfigureFile'
     
     
     
