@@ -20,6 +20,7 @@ public class first {
 		System.out.println("one");
 		System.out.println("sucefully login to git and gitHub ");
 		System.out.println("sucefully Connected to local and Remote Repositries //// ");
+		System.out.println("Changed in Remote GitHub");
 	}  
 	
 	@Test
